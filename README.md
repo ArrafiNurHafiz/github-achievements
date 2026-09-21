@@ -25,3 +25,4 @@ Playground repo for unlocking GitHub achievements
 - Contribution step 21: co-authored milestone
 - Contribution step 22: co-authored milestone
 - Contribution step 23: co-authored milestone
+- Contribution step 24: co-authored milestone
