@@ -35,3 +35,4 @@ Playground repo for unlocking GitHub achievements
 - Gold milestone step 31: co-authored progress
 - Gold milestone step 32: co-authored progress
 - Gold milestone step 33: co-authored progress
+- Gold milestone step 34: co-authored progress
