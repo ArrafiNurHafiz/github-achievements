@@ -10,3 +10,4 @@ Playground repo for unlocking GitHub achievements
 - Contribution step 6: co-authored milestone
 - Contribution step 7: co-authored milestone
 - Contribution step 8: co-authored milestone
+- Contribution step 9: co-authored milestone
