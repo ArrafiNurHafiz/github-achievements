@@ -9,3 +9,4 @@ Playground repo for unlocking GitHub achievements
 - Step 5: automated API verification
 - Contribution step 6: co-authored milestone
 - Contribution step 7: co-authored milestone
+- Contribution step 8: co-authored milestone
