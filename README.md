@@ -7,3 +7,4 @@ Playground repo for unlocking GitHub achievements
 - Step 4: badge progress
 
 - Step 5: automated API verification
+- Contribution step 6: co-authored milestone
